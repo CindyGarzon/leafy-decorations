@@ -3,6 +3,11 @@ html {
 }
 
 .masthead {
+  background-color: #588477;
+  border-bottom: 3px solid #467366;
+  border-top: 3px solid #467366;
+  background-image: url(../images/leaf-bg.svg);
+  background-position: left top, left bottom, left top;
 
 }
 
