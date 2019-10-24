@@ -47,7 +47,7 @@ html {
 }
 
 .banner-content {
-  background: url (.."images/two-leaves.svg");
+  background-image: : url (.."images/two-leaves.svg");
   background-position: .75em 0;
   background-repeat: no-repeat;
   background-size: 100px;
